@@ -1,0 +1,13 @@
+c:\users\st076887\source\repos\Client\Client\bin\Debug\Client.exe.config
+c:\users\st076887\source\repos\Client\Client\bin\Debug\Client.exe
+c:\users\st076887\source\repos\Client\Client\bin\Debug\Client.pdb
+c:\users\st076887\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+c:\users\st076887\source\repos\Client\Client\obj\Debug\Client.exe
+c:\users\st076887\source\repos\Client\Client\obj\Debug\Client.pdb
+C:\Users\User\source\repos\Client\Client\bin\Debug\Client.exe.config
+C:\Users\User\source\repos\Client\Client\bin\Debug\Client.exe
+C:\Users\User\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\User\source\repos\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Client\Client\obj\Debug\Client.exe
+C:\Users\User\source\repos\Client\Client\obj\Debug\Client.pdb
